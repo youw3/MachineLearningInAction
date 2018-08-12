@@ -6,3 +6,5 @@ knn
 decision tree
 
 naive bayes
+
+logistic regression
